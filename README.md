@@ -1,6 +1,8 @@
 # carburanti-mise
 Semplice re-format dei dati disponibili sul sito  gov.it
 
+i dati vengono aggiornati ogni giorno alle 08.37 CET
+
 JSON: https://storage.googleapis.com/bstx-x6x9-ah_carburante_mise/carburante8_e_anagrafica.json
 
 TSV: https://storage.googleapis.com/bstx-x6x9-ah_carburante_mise/carburante8_e_anagrafica.tsv
